@@ -3,4 +3,4 @@ This is the first website I built. It's a simple project to help me learn HTML a
 
 ## How to View
 
-You can just open the `index.html` file in your browser to view the site.
+You can just open the `index.php` file in your browser to view the site.
